@@ -31,8 +31,9 @@
 // ======================================================
 
 
-// // this statement breaks
+// // both of these statements break because we are trying to call them before initializing 
 // myFunction(5, 20);
+// console.log(myFunction(5,20));
 
 // let myFunction = function(num1, num2){
 //     let num3 = num1 + num2;
