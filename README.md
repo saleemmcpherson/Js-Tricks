@@ -1,3 +1,3 @@
 # Js-Tricks
-### Repository for JS tricks that I feel is good to know
+### Repository for JS tricks that I feel are good to know
 
