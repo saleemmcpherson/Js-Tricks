@@ -1,5 +1,8 @@
 "use strict"
 
+// research mochajs and chaijs 
+// mocha is a testing framework, chai in an assertion library
+
 // *************
 // FUNCTIONS
 // *************
